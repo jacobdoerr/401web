@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title> JTD edits </title>
+		<link href="nav.css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<div class="banner">
+			<div class="logo">
+				<img class="logo" src="images/jtdeditsLogo.png" />
+			</div>
+		</div>
+			Web Page1
+		<div id="footer">
+			<li class="first">2018 Jacob Doerr</li>
+			<li>Web Development 401</li>
+			<li>jacobdoerr@u.boisestate.edu</li>
+		</div>
+
+	</body>
+</html>

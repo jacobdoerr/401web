@@ -1,0 +1,108 @@
+.banner {
+	min-height: 150px;
+	height: auto;
+	background: #af2323;
+	border-bottom: 10px solid #000;
+}
+
+.logo {
+	max-height:225px;
+	height: auto;
+	max-width:562px;
+	width: auto;
+	float: left;
+}
+
+.edits {
+	display: inline;
+	margin: 1% 1%;
+	height: auto;
+	width: 45%;
+	min-width: 200;
+	border: 3px solid #000;
+}
+
+#pageTitle{
+	font-size: 70;
+	font-weight: bold;
+	text-align: center;
+	position: relative;
+}
+
+#currentPage{
+	background-color:white;
+	border: 5px solid #000;
+}
+
+#gallerycontent{
+	border:5px solid #000;
+	padding: 1% 1%;
+}
+
+div{
+	display: block;
+}
+
+body{
+	margin: 0;
+	font-family: Helvetica;
+	background: #ce7227;
+}
+
+.navbar > ul > li{
+	list-style: none;
+	display: inline;
+	
+}
+
+.navbar {
+	padding-left: 20px;
+	font-size: 25px;
+	font: helvetica;
+	text-transform: uppercase;
+}
+
+.navbar a{
+	color: #000;
+	text-decoration: none;
+
+}
+.navbar a:hover{
+	background-color: #cd7227;
+	border: 5px solid #000;
+	color: #000;
+}
+
+.loggedin{
+	background-color: #cd7227;
+	border: 5px solid #000;
+	color: #000;
+	float: right;
+}
+
+#footer > li{
+	display: inline;
+	border-left: solid 1px #000;
+	padding: 0 10px;
+	color: #000;
+}
+
+#footer > li.first{
+	border-left: none;
+}
+
+.content{
+	margin: 30px 30px;
+	padding:20px 20px;
+	background-color: white;
+	border: 5px solid #000;
+}
+
+#footer{
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	font-size: 15px;
+}
+
+
